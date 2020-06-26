@@ -1,0 +1,33 @@
+
+Start-Date: 2020-06-25  08:23:15
+Commandline: /usr/bin/apt install python3
+Install: python3.5:armhf (3.5.3-1+deb9u1, automatic), python3:armhf (3.5.3-1), python3.5-minimal:armhf (3.5.3-1+deb9u1, automatic), mime-support:armhf (3.60, automatic), libmagic1:armhf (1:5.30-1+deb9u3, automatic), libmpdec2:armhf (2.4.2-1, automatic), libexpat1:armhf (2.2.0-2+deb9u3, automatic), python3-minimal:armhf (3.5.3-1, automatic), libmagic-mgc:armhf (1:5.30-1+deb9u3, automatic), libpython3-stdlib:armhf (3.5.3-1, automatic), xz-utils:armhf (5.2.2-1.2+b1, automatic), dh-python:armhf (2.20170125, automatic), bzip2:armhf (1.0.6-8.1, automatic), file:armhf (1:5.30-1+deb9u3, automatic), libpython3.5-stdlib:armhf (3.5.3-1+deb9u1, automatic), libpython3.5-minimal:armhf (3.5.3-1+deb9u1, automatic)
+End-Date: 2020-06-25  08:24:54
+
+Start-Date: 2020-06-25  08:28:36
+Commandline: /usr/bin/apt install gcc
+Install: libmpc3:armhf (1.0.3-1+b2, automatic), manpages:armhf (4.10-2, automatic), linux-libc-dev:armhf (4.9.210-1, automatic), libmpfr4:armhf (3.1.5-1, automatic), libc6-dev:armhf (2.24-11+deb9u4, automatic), cpp-6:armhf (6.3.0-18+deb9u1, automatic), binutils:armhf (2.28-5, automatic), cpp:armhf (4:6.3.0-4, automatic), gcc:armhf (4:6.3.0-4), libasan3:armhf (6.3.0-18+deb9u1, automatic), libisl15:armhf (0.18-1, automatic), libgcc-6-dev:armhf (6.3.0-18+deb9u1, automatic), libubsan0:armhf (6.3.0-18+deb9u1, automatic), gcc-6:armhf (6.3.0-18+deb9u1, automatic), libgomp1:armhf (6.3.0-18+deb9u1, automatic), manpages-dev:armhf (4.10-2, automatic), libc-dev-bin:armhf (2.24-11+deb9u4, automatic), libatomic1:armhf (6.3.0-18+deb9u1, automatic), libcc1-0:armhf (6.3.0-18+deb9u1, automatic)
+End-Date: 2020-06-25  08:29:15
+
+Start-Date: 2020-06-25  08:29:37
+Commandline: /usr/bin/apt install net-tools
+Install: net-tools:armhf (1.60+git20161116.90da8a0-1)
+End-Date: 2020-06-25  08:29:39
+
+Start-Date: 2020-06-25  10:06:31
+Commandline: /usr/bin/apt install sudo
+Requested-By: imx6ull (1000)
+Install: sudo:armhf (1.8.19p1-2.1+deb9u2)
+End-Date: 2020-06-25  10:06:34
+
+Start-Date: 2020-06-25  10:07:48
+Commandline: /usr/bin/apt install ssh
+Requested-By: imx6ull (1000)
+Install: libxdmcp6:armhf (1:1.1.2-3, automatic), libkrb5-3:armhf (1.15-1+deb9u1, automatic), libgssapi-krb5-2:armhf (1.15-1+deb9u1, automatic), libdbus-1-3:armhf (1.10.28-0+deb9u1, automatic), dbus:armhf (1.10.28-0+deb9u1, automatic), libwrap0:armhf (7.6.q-26, automatic), openssh-sftp-server:armhf (1:7.4p1-10+deb9u7, automatic), libk5crypto3:armhf (1.15-1+deb9u1, automatic), libx11-6:armhf (2:1.6.4-3+deb9u1, automatic), krb5-locales:armhf (1.15-1+deb9u1, automatic), libxau6:armhf (1:1.0.8-1, automatic), libxcb1:armhf (1.12-1, automatic), libkrb5support0:armhf (1.15-1+deb9u1, automatic), ssh:armhf (1:7.4p1-10+deb9u7), tcpd:armhf (7.6.q-26, automatic), ucf:armhf (3.0036, automatic), libkeyutils1:armhf (1.5.9-9, automatic), libxmuu1:armhf (2:1.1.2-2, automatic), libpam-systemd:armhf (232-25+deb9u12, automatic), ncurses-term:armhf (6.0+20161126-1+deb9u2, automatic), openssh-server:armhf (1:7.4p1-10+deb9u7, automatic), libx11-data:armhf (2:1.6.4-3+deb9u1, automatic), openssh-client:armhf (1:7.4p1-10+deb9u7, automatic), libedit2:armhf (3.1-20160903-3, automatic), xauth:armhf (1:1.0.9-1+b2, automatic), libxext6:armhf (2:1.3.3-1+b2, automatic)
+End-Date: 2020-06-25  10:09:36
+
+Start-Date: 2020-06-25  10:11:10
+Commandline: /usr/bin/apt install ethtool
+Requested-By: imx6ull (1000)
+Install: ethtool:armhf (1:4.8-1+b1)
+End-Date: 2020-06-25  10:11:12
